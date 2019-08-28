@@ -8,4 +8,4 @@ Installation:
 - Ouvrir le terminal et exécuter "npm start".
 - Ouvrir une page web et y entrer le "localhost:xxxx".
 
-(Mise en ligne en cours).
+(Mise en ligne en multijoueurs en cours -Heroku-).
