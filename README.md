@@ -9,3 +9,5 @@ Installation:
 - Ouvrir une page web et y entrer le "localhost:xxxx".
 
 (Mise en ligne en multijoueurs en cours -Heroku-).
+
+![SpaceFight](https://raw.githubusercontent.com/Enzob09/SpaceFight-Phaser3/master/public/assets/SpaceFightImg1.png)
