@@ -5,7 +5,7 @@ Après avoir suivi le [tutoriel](https://gamedevacademy.org/create-a-basic-multi
 Installation:
 
 - Clôner/Télécharger le repo.
-- Ouvrir le terminal et exécuter "npm start".
+- Ouvrir le terminal et exécuter "npm install", puis "npm start".
 - Ouvrir une page web et y entrer le "localhost:xxxx".
 
 (Mise en ligne en multijoueurs en cours -Heroku-).
